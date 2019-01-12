@@ -1,0 +1,794 @@
+@media screen and (max-width:1199px){
+.headlien{padding:0px 23px;    line-height: 20px;}
+.first-detail h4.inner-detail{padding:0px 10px ;}
+
+
+.logout_butn {
+    display: inline-block !important;
+    vertical-align: middle;
+    margin-left: 14px;
+    margin-bottom: 14px;
+}
+	
+		.profile_banner {padding:15px 20px;}
+	ul.nav.nav-pills.profile_tab{    margin-top: 20px;width: 58%;}
+  .content {
+     bottom: 23%;
+   }
+  .form-group.banner_frm {
+      width: 89%;
+    }
+   .banner {
+      height: auto;
+    }
+    span.span_1:before{
+        left: 26%;
+    }
+    span.span_1:after {
+     left: 26%;
+    }
+    span.span_2:before{
+       right: 26%;
+    }
+    span.span_2:after{
+       right: 26%;
+    }
+    .box_div h4 {
+       font-size: 22px;
+    }
+    .owl-carousel .owl-item img{
+        width:98%
+    }
+    .box_div{
+        height:230px;
+    }
+    span.span_3:before, span.span_3:after {
+      left: 31%;
+    }
+
+    span.span_4:before {
+      right: 31%;
+    }
+    span.span_4:after {
+      right: 31%;
+    }
+    button.owl-next {
+      right: -47px;
+    }
+    button.owl-prev {
+      left: -9px;
+    }
+    .owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next, .owl-carousel button.owl-dot {
+      top: 44%;
+    }
+    .ftr-div.ftr_last li a {
+       padding: 10px 17px;
+    }
+    .ftr_left {
+       padding-left: 45px;
+    }
+    .navbar-right .dropdown-menu {
+    right: -34px;
+   }
+    
+   /****sign***in****/    
+    
+   .sign_banner {
+      width: 96%;
+     padding: 8px 0px;
+    }
+   .sign_in {
+     width: 44%;
+     margin: 0px 18px;
+    }
+  .sign_in p {
+    padding-bottom: 1px;
+  }
+   
+    /****contact*****/
+    
+   .cntct-left li i {
+        vertical-align: top;
+    } 
+    .cntct-left li {
+        padding: 0px 0px 10px;
+        font-size: 16px;
+    }
+    
+    /****filter*****/
+    span.span_1.span_5:before,  span.span_1.span_5:after  {
+        left: 8%;
+    }
+    span.span_2.span_6:after,  span.span_2.span_6:before {
+        right: 7%;
+    }
+
+    /****beautiful-destination****/
+    span.span_main_2::before, span.span_main_2::after{
+        right: 22%
+    }
+    span.span_main_1::before,  span.span_main_1::after{
+        left:-2%;
+    } 
+    div#map-canvas{
+        width:400px;
+        height:400px
+    }
+    
+    /*****beautiful****/
+  
+    /*****information****/
+    .address-img img {
+        width: 100%;
+    }
+    /****main-destination***/
+    .pagination a {
+       padding: 8px 12px;
+    }
+    
+    .my__payment__page .btns_row_new #checkout-total {
+        margin: 30px 0 0 0px !important;
+        padding-left: 1px;
+    }
+
+    
+    
+    
+}
+
+
+
+@media screen and (max-width:991px){
+    
+    .content h1 {
+        font-size: 40px;
+    }
+  
+    .form-group.banner_frm input {
+        width: 75%;
+     }
+    .form-group.banner_frm label {
+        width: 14%;
+    }
+    h2 {
+        font-size: 38px;
+    }
+    .choose_div {
+        padding: 50px 0px;
+    }
+    span.span_1:before, span.span_1:after {
+        left: 22%;
+    }
+    span.span_2:before, span.span_2:after {
+        right: 22%;
+    }
+
+    span.span_4:before, span.span_4:after  {
+        right: 28%;
+    }
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 96%;
+        text-align: left;
+    }
+    button.owl-next {
+       right: -40px;
+    }
+    button.owl-prev {
+       left: -11px;
+     }
+     .owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next, .owl-carousel button.owl-dot
+    {
+            font-size: 48px
+    }
+    .ftr-div h4 {
+      font-size: 22px;
+    }
+    .content {
+    bottom: 40%;
+}
+    
+     /****sign***in****/
+    
+    .sign_in {
+        width: 44%;
+        margin: 0px 16px;
+    }
+    .banner_in video#myVideo {
+        DISPLAY: NONE;
+    }
+    .sign_banner {
+        width: 100%;
+        padding: 8px 0px;
+        POSITION: static;
+        LEFT: 0;
+        RIGHT: 0;
+        TRANSFORM: TRANSLATE(0,0);
+        margin: 20px 0px;
+    }
+    
+     /****contact*****/
+    
+    .cntct-left h3 {
+        font-size: 30px;
+    }
+    
+     /****filter*****/
+    li.right_content {
+        width: 54%;
+        display: inline-block;
+    }
+    form.filter_frm {
+        padding: 13px 2px;
+    }
+    input.form-control.small_width {
+        width: 48%;
+        background-size: 10px;
+        background-position: 96%;
+    }
+    .left-image {
+       width: 94px;
+    }
+    .norm {
+        height: 7px;
+    }
+    ul.nav.nav-pills.scd_nav-pill li a {
+        font-size: 14px;
+        padding: 10px 10px;
+    }
+    span.span_1.span_5:before, span.span_1.span_5:after {
+        left: 0%;
+    }
+    span.span_2.span_6:after, span.span_2.span_6:before {
+        right: 0%;
+    }
+    .near-txt {
+     width: 52%;
+     margin-left: 10px;
+    }
+    .near-txt h4 {
+      font-size: 24px;
+    }
+    .near-txt p {
+        font-size: 15px;
+        line-height: 22px;
+        padding: 9px 0px;
+    }
+    .pagination a {
+      padding: 8px 7px;
+    }
+    .near_img{
+        vertical-align: top
+    }
+   .left-image {
+        width: 100%;
+        height: auto;
+    }
+    .left-image img {
+        height: auto;
+    }
+    .description {
+        font-size: 14px;
+    }
+    li.right_content {
+        width: 100%;
+        display: inline-block;
+        padding: 12px 4px 20px;
+    }
+    span.span_1.span_5:before, span.span_1.span_5:after {
+        left: 12%;
+    }
+    span.span_2.span_6:after, span.span_2.span_6:before {
+        right: 12%;
+    }
+    .carousel-inner {
+        height: auto;
+    }
+    
+    /****beauti-destination****/
+    .grid_div .col-sm-6 {
+        width: 100%;
+    }
+    span.span_main_2::before, span.span_main_2::after {
+        right: 49%;
+    }
+    span.span_3:before, span.span_3:after {
+        left: 28%;
+    }
+    div#map-canvas {
+        width: 300px;
+        height: 300px;
+    }
+    something-semantic2 {
+      height: 272px;
+    }
+    something-else-semantic2 {
+        display: table-cell;
+        text-align: left;
+        vertical-align: middle;
+    }
+    .something-else-semantic2 {
+        text-align: left;
+    }
+    .something-semantic2 {
+        height: 291px;
+    }
+    p.para_left{
+        padding-right: 0;
+    }
+    
+    .grid_div {
+        padding-bottom: 0;
+    } 
+    .ftr_left {
+        padding-left: 21px;
+    }
+     /*****infomation****/
+    
+    .info_popup button{
+        width:80%;
+    }
+    .info_detail_text {
+        padding: 1px 13px 0px;
+        width: 67%;
+    }
+    ul.nav.nav-pills.info_link li a {
+    font-size: 14px;
+    }
+    .employe_inner img {
+    width: 100%;
+}
+    
+    /****main-destination****/
+    .side_div.paddinG-side {
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .scd_img {
+          margin-top: 0;
+            margin-bottom: 44px;
+   }
+    .img_headr {
+        padding-bottom: 47px;
+    }
+    .pagination_div {
+        padding-top: 64px;
+        padding-bottom: 20px;
+    }
+    .txt-totalorder strong {
+        margin-right: 6px;
+        font-size: 14px
+    }
+
+}
+    
+
+
+
+@media screen and (max-width:767px){
+    .navbar-inverse .navbar-toggle .icon-bar {
+      background-color: #1b1b1b;
+    }
+    .navbar-toggle .icon-bar {
+        display: block;
+       width: 22px;
+        height: 3px;
+        border-radius: 1px;
+    }
+    .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+      background-color: transparent;
+    }
+    .navbar-inverse .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-collapse {
+        position: absolute;
+        background-color: #fff;
+        width: 100%;
+        z-index: 99999;
+    }
+    .navbar{
+        border: 0
+    }
+    .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
+        color: #f8981d;
+        background-color: transparent;
+    }
+    .content h1 {
+      font-size: 33px;
+      padding-bottom: 48px;
+     }
+    .form-group.banner_frm label {
+        width: 14%;
+        font-size: 14px;
+    }
+    h2 {
+       font-size: 34px;
+    }
+    .box_inner {
+      margin-bottom: 72px;
+    }
+    .box_div h4 {
+      font-size: 26px;
+     }
+    .choose_div {
+      padding: 50px 0px 0px;
+    }
+    .ftr_left {
+        padding-left: 0;
+        padding: 30px 0px;
+    }
+    .ftr-div h4 {
+      padding: 14px 0px 25px;
+    }
+    .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+        border-color: transparent;
+    }
+
+     /****sign***in****/
+    
+    .sign_in {
+        width: 100%;
+        margin: 0px;
+        padding: 8px 20px;
+    }
+    .sign_in2 {
+        position: relative;
+        padding-top: 30px !important;
+    }
+    
+     /****contact*****/
+    .cntct-left h3 {
+        font-size: 30px;
+        padding-top: 0;
+    }
+   .cntct-left ul {
+    padding-bottom: 40px;
+}
+ 
+   
+     /****filter*****/
+    
+    
+  /*****beautiful-destination****/
+    span.span_main_2::before, span.span_main_2::after {
+    right: 44%;
+}
+    .something-semantic2 {
+        height: auto;
+        margin-bottom: 30px;
+    }
+    div#map-canvas {
+        text-align: center;
+        margin: auto;
+    }
+    .info_popup button {
+        width: 38%;
+    }
+    ul.nav.nav-pills.info_link li {
+        display: inline-block !important;
+        width: 49%;
+    }
+    .employe_inner {
+        text-align: center;
+        margin-bottom: 26px;
+    }
+    .info_popup {
+    margin-top: 0;
+    }
+    
+    /****main-destonation***/
+    .pagination_div {
+        padding-top: 64px;
+        padding-bottom: 20px;
+    }
+
+    
+    /****main-destination***/
+    .main_desti_img .col-sm-3 {
+        width: 24%;
+        display: inline-block;
+    }
+    
+    
+    
+    	.profile_banner {padding:15px 18px;}
+	ul.nav.nav-pills.profile_tab{    margin-top: 20px;    width: 77%;
+    margin-left: 21%;}
+}
+
+
+
+
+
+@media screen and (max-width:640px){
+	
+	
+	.profile_inner {
+    text-align: center;
+}
+  .content h1 {
+    font-size: 29px;
+    padding-bottom: 48px;
+  }  
+
+  .form-group.banner_frm input {
+    width: 70%;
+  }
+  .form-group.banner_frm label {
+    width: 18%;
+   }
+  span.span_1:before, span.span_1:after {
+    left: 17%;
+  }
+   span.span_2:before, span.span_2:after {
+    right: 17%;
+  }
+  span.span_3:before, span.span_3:after
+  span.span_4:before, span.span_4:after {
+    right: 23%;
+  }
+   .owl-carousel .owl-item img {
+    text-align: center;
+    margin: auto;
+           width: 94%;
+  } 
+  button.owl-prev {
+    left: 0px;
+  }   
+  button.owl-next {
+    right: -39px;
+ } 
+   .content {
+    bottom: 17%;
+} 
+    .content {
+    bottom: 49%;
+}
+     /****sign***in****/
+    
+  /****contact*****/   
+    
+    
+ /****filter*****/   
+    
+    
+/****beautiful-destination****/
+  .new_heading h2 {
+    font-size: 36px;
+    }
+   span.span_3:before, span.span_3:after {
+        left: 23%;
+    }
+    span.span_4:before, span.span_4:after {
+        right: 23%;
+    }
+    .side_img{
+        margin: 0
+    }  
+    .ftr_left_in {
+        width: 53%;
+    }
+    .ftr_right {
+        width: 43%;
+    }
+    p.para_left {
+      padding-right: 0;
+    }
+    
+    /***nformation****/
+    ul.nav.nav-pills.info_link_inner li {
+    width: 28%;
+    margin: 0px 10px;
+}
+    span.span_main_3::before, span.span_main_3::after{
+        left:34%
+    }  
+    
+    
+    /****main-destination*****/
+    
+       span.span_main_4::before, span.span_main_4::after{
+       right: 34%;
+    }
+	
+	    
+    	.profile_banner {padding:15px 18px;}
+	ul.nav.nav-pills.profile_tab{     width: 77%;
+    margin-left: 18%;}
+    
+    
+}
+
+
+
+@media screen and (max-width:567px){
+	ul.nav.nav-pills.profile_tab li{width:100%;}
+	    
+    	.profile_banner {padding:15px 12px;}
+	ul.nav.nav-pills.profile_tab{    margin-top: 20px;width: 69%;}
+    .form-group.sign_out.login_out {
+    width: 100%;
+    }
+	
+  h2 {
+    font-size: 29px;
+ } 
+   .ftr_left_in {
+    width: 100%;
+  }
+  .ftr_right {
+    text-align: left;
+    width: 100%;
+    margin-top: 15px;
+}  
+ .near-txt p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+ /****sign***in****/   
+    
+    
+  /****contact*****/  
+    
+ /****filter*****/  
+    .nav-pills>li>a{
+    padding: 10px 10px;
+    }  
+    
+/****beautiful-destination****/
+span.span_main_2::before, span.span_main_2::after {
+    right: 33%;
+}
+    
+    /****information****/
+    .address-img {
+    width: 100%;
+    }
+    .address_txt {
+    width: 100%;
+    margin-top: 20px;
+}
+    /*****main-destination***/
+ .main_desti_img .col-sm-3 {
+    width: 49%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+    .main_desti_img {
+    padding-bottom: 0;
+}
+
+    
+    
+    
+}
+
+@media screen and (max-width:480px){
+	.prfile_detail{padding-left: 0px;}
+		    
+	.profile_banner {padding:15px 20px;}
+	ul.nav.nav-pills.profile_tab{    margin-top: 20px;    width: 78%;
+    margin: 0 auto;
+    position: relative;
+    left: 4%;}
+	a.prenl_info{font-size:16px;}
+	
+   .content {
+    bottom: 8%;
+    padding: 20px 0px;
+}
+  .content h1 {
+    font-size: 24px;
+    padding-bottom: 23px;
+   }  
+  .form-group.banner_frm label {
+        width: 26%;
+        height: 52px;
+  }    
+  .form-group.banner_frm input {
+        width: 65%;
+        height: 52px;
+  }    
+  button.small_btn {
+        height: 52px;
+    }
+     h2 {
+        font-size: 25px;
+     }
+     span.span_1:before, span.span_1:after {
+        left: 4%;
+    }   
+    span.span_2:before, span.span_2:after {
+        right: 4%;
+    }    
+     span.span_3:before, span.span_3:after {
+        left: 16%;
+    }   
+    span.span_4:before, span.span_4:after {
+        right: 14%;
+    }  
+    
+     /****sign***in****/
+     /****contact*****/
+    
+     /****filter*****/
+    .near_img {
+        width: 100%;
+    }
+         .nav-pills>li>a {
+        padding: 10px 10px;
+     }   
+     ul.nav.nav-pills.scd_nav-pill {
+        margin-left: 0px;
+    }   
+    .nav-pills>li>a {
+        padding: 10px 4px;
+        font-size: 12px;
+    }    
+    ul.nav.nav-pills.scd_nav-pill li {
+        border: 1px solid #c1c1c1;
+        margin: 10px 5px 0px 0px;
+        text-align: center;
+        width: 47%;
+    }
+    li.max-width {
+        width: 47% !important;
+    }
+    span.span_1.span_5:before, span.span_1.span_5:after {
+        left: 0;
+    }    
+    span.span_2.span_6:after, span.span_2.span_6:before {
+        right: 0;
+    }
+    .near-txt {
+    width: 100%;
+    margin-left: 0;
+    padding-top: 15px;
+   }
+    .pagination a {
+        padding: 5px 6px;
+        margin: 0 0px;
+    }
+    .banner {
+        height: auto;
+        position: relative;
+    }
+    
+     /****beautiiful-destination****/
+    .side_img {
+    background-color: #feeeda;
+    height: 100%;
+    width: 100%;
+    }
+    .side_img img{
+        position: static;
+    }
+    .new_heading h2 {
+        font-size: 29px;
+    }
+    span.span_main_2::before, span.span_main_2::after {
+        right: 15%;
+    }
+    p.para_left{
+        padding-right: 0;
+    }
+    .info_popup button {
+    width: 58%;
+}
+    ul.nav.nav-pills.info_link li {
+    display: inline-block !important;
+    width: 100%;
+}
+    img.img-responsive.grid_image {
+    position: static;
+    left: -9% !important;
+}
+ ul.nav.nav-pills.info_link_inner li {
+    width: 43%;
+    margin: 0px 10px;
+}   
+    
+    
+    
+}
